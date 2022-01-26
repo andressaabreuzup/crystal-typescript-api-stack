@@ -1,0 +1,3 @@
+[submodule "domain-services-typescript-openapi-plugin"]
+	path = domain-services-typescript-openapi-plugin
+	url = git@github.com:stack-spot/domain-services-typescript-openapi-plugin.git
