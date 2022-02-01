@@ -1,6 +1,3 @@
 [submodule "domain-services-typescript-openapi-plugin"]
 	path = domain-services-typescript-openapi-plugin
 	url = git@github.com:stack-spot/domain-services-typescript-openapi-plugin.git
-[submodule "base-app-ts-template"]
-	path = base-app-ts-template
-	url = git@github.com:samuelhenriquezup/base-app-ts-template.git
