@@ -4,3 +4,6 @@
 [submodule "app-typescript-openapi-plugin"]
 	path = app-typescript-openapi-plugin
 	url = git@github.com:stack-spot/app-typescript-openapi-plugin.git
+[submodule "app-typescript-template"]
+	path = app-typescript-template
+	url = git@github.com:stack-spot/app-typescript-template.git
