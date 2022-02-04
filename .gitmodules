@@ -7,3 +7,6 @@
 [submodule "app-typescript-template"]
 	path = app-typescript-template
 	url = git@github.com:stack-spot/app-typescript-template.git
+[submodule "app-typescript-dynamodb-plugin"]
+	path = app-typescript-dynamodb-plugin
+	url = git@github.com:stack-spot/app-typescript-dynamodb-plugin.git
