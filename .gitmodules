@@ -1,12 +1,12 @@
 [submodule "base-app-ts-template"]
 	path = base-app-ts-template
-	url = git@github.com:stack-spot/base-app-ts-template.git
+	url = https://github.com:stack-spot/base-app-ts-template.git
 [submodule "app-typescript-openapi-plugin"]
 	path = app-typescript-openapi-plugin
-	url = git@github.com:stack-spot/app-typescript-openapi-plugin.git
+	url = https://github.com/stack-spot/app-typescript-openapi-plugin.git
 [submodule "app-typescript-template"]
 	path = app-typescript-template
-	url = git@github.com:stack-spot/app-typescript-template.git
+	url = https://github.com/stack-spot/app-typescript-template.git
 [submodule "app-typescript-dynamodb-plugin"]
 	path = app-typescript-dynamodb-plugin
-	url = git@github.com:stack-spot/app-typescript-dynamodb-plugin.git
+	url = https://github.com/stack-spot/app-typescript-dynamodb-plugin.git
