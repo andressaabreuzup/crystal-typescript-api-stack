@@ -3,9 +3,10 @@ name: skynet-typescript-api-stack
 displayName: Typescript API Stack
 
 description: A stack de typescript API a capacidade de criação de serviços inteiramente serverless, com lambdas implementadas em Typescript, criação automática de API Gateway, e outros recursos de nuvem.
+
 picture: "stack.png"
 
-category: backend
+category: Backend
 
 compatibility:
   - NodeJS 14.x
