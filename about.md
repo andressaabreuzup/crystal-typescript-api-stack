@@ -1,5 +1,3 @@
-## **Visão Geral**
-
 
 Trabalhe com uma stack serverless, contract first, e lambdas em typescript.
 Elimine a complexidade de gerar a infraestrutura necessária para expor uma API e concentre-se apenas na codificação das lambdas que executam as regras de negócio.
