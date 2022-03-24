@@ -10,3 +10,6 @@
 [submodule "app-typescript-dynamodb-plugin"]
 	path = app-typescript-dynamodb-plugin
 	url = https://github.com/stack-spot/app-typescript-dynamodb-plugin.git
+[submodule "skynet-handler-opa-auth-plugin"]
+	path = skynet-handler-opa-auth-plugin
+	url = https://github.com/stack-spot/skynet-handler-opa-auth-plugin.git
