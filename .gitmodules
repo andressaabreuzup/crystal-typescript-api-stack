@@ -13,3 +13,6 @@
 [submodule "app-handler-opa-auth-plugin"]
 	path = app-handler-opa-auth-plugin
 	url = https://github.com/stack-spot/app-handler-opa-auth-plugin.git
+[submodule "app-handler-openid-auth-plugin"]
+	path = app-handler-openid-auth-plugin
+	url = https://github.com/stack-spot/app-handler-openid-auth-plugin.git
