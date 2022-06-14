@@ -1,18 +1,6 @@
-[submodule "base-app-ts-template"]
-	path = base-app-ts-template
-	url = https://github.com:stack-spot/base-app-ts-template.git
 [submodule "app-typescript-openapi-plugin"]
 	path = app-typescript-openapi-plugin
 	url = https://github.com/stack-spot/app-typescript-openapi-plugin.git
 [submodule "app-typescript-template"]
 	path = app-typescript-template
 	url = https://github.com/stack-spot/app-typescript-template.git
-[submodule "app-typescript-dynamodb-plugin"]
-	path = app-typescript-dynamodb-plugin
-	url = https://github.com/stack-spot/app-typescript-dynamodb-plugin.git
-[submodule "app-handler-opa-auth-plugin"]
-	path = app-handler-opa-auth-plugin
-	url = https://github.com/stack-spot/app-handler-opa-auth-plugin.git
-[submodule "app-handler-openid-auth-plugin"]
-	path = app-handler-openid-auth-plugin
-	url = https://github.com/stack-spot/app-handler-openid-auth-plugin.git
