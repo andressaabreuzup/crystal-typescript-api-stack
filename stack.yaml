@@ -10,10 +10,19 @@ category: Backend
 
 compatibility:
   - NodeJS 14.x
-  - CDK 1.x 
+  - CDK 2.x
 
-technologies: ["Typescript", "Lambda", "DynamoDB", "API Gateway"]
+technologies:
+  - Typescript
+  - Lambda
+  - API Gateway
 
-about: about.md
+about: docs/about.md
 
-useCase: useCase.md
+useCase:
+  - title: Basic Template
+    content: docs/useCase.md
+    stackfile: stackfiles/basic.yaml
+  - title: Basic API
+    content: docs/useCase.md
+    stackfile: stackfiles/basic-openapi.yaml
