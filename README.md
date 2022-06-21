@@ -1,4 +1,4 @@
-# skynet-typescript-api-stack
+# crystal-typescript-api-stack
 
 A stack de typescript API a capacidade de criação de serviços inteiramente serverless, com lambdas implementadas em Typescript, criação automática de API Gateway, e outros recursos de nuvem.  
 
