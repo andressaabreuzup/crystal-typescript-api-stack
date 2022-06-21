@@ -1,4 +1,4 @@
 type: app
 description: Template para iniciar o desenvolvimento baseado em apenas um template básico de Typescipt da stack.
 # template used to create the project
-template: skynet-typescript-api-stack/app-typescript-template
+template: crystal-typescript-api-stack/app-typescript-template

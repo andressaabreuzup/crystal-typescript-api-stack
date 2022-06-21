@@ -1,6 +1,6 @@
 type: app
 description: Template para desenvolver uma API em Lambda baseada em um arquivo de especificação OpenAPI. Configurando automaticamente API Gateway.
 # template used to create the project
-template: skynet-typescript-api-stack/app-typescript-template
+template: crystal-typescript-api-stack/app-typescript-template
 plugins:
- - plugin: skynet-typescript-api-stack/app-typescript-openapi-plugin
+ - plugin: crystal-typescript-api-stack/app-typescript-openapi-plugin

@@ -19,7 +19,7 @@ Recomendamos a utilização de algumas ferramentas para desenvolvimento
 ### Configuração Stack CLI
 Executar comando abaixo para atualização de local com catálogo que contém OpenAPI plugin:
 ```bash
-stk add stack https://github.com/stack-spot/skynet-typescript-api-stack
+stk add stack https://github.com/stack-spot/crystal-typescript-api-stack
 ```
 
 ## Comandos Úteis
