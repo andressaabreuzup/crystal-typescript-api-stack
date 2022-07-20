@@ -1,4 +1,4 @@
-Trabalhe com uma Stack que é serverless, contract first e que tem Lambdas em TypeScript.  
+Trabalhe com uma Stack que é serverless, contract first e que tem Lambdas em **TypeScript**.  
 
 Elimine a complexidade de gerar a infraestrutura necessária para expor uma API e concentre-se apenas na codificação das Lambdas que executam as regras de negócio.
 
