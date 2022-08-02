@@ -2,10 +2,10 @@
 Este Caso de Uso é ideal para a construção de endpoints para aplicação web.
 
 ### **Visão Geral**  
-O plugin [**typescript-openapi-plugin**](https://github.com/stack-spot/app-typescript-openapi-plugin) adiciona na Stack a capacidade de provisionar serviços Lambda a partir de um arquivo de especificação **OpenAPI**. 
+O Plugin [**typescript-openapi-plugin**](https://github.com/stack-spot/app-typescript-openapi-plugin) adiciona na Stack a capacidade de provisionar serviços Lambda a partir de um arquivo de especificação **OpenAPI**. 
 
 ### **Pré-requisitos**
-Para usar o plugin é preciso ter instalado os itens abaixo: 
+Para usar o Plugin é preciso ter instalado os itens abaixo: 
 
 - [**StakSpot CLI**](https://docs.stackspot.com/v3.0.0/os-cli/installation/);
 - [**NodeJS**](https://nodejs.org/en/);
@@ -38,4 +38,4 @@ Comando   | Descrição
 `npm run cdk deploy` | Faz o deploy para a conta AWS configurada no projeto. 
 
 ## **Próximos Passos**  
-Depois de aplicar o **`OpenAPI plugin`**, edite o arquivo `{{spec_file_name}}.yaml` para permitir a atualização dos stubs de serviço gerados a parir desse arquivo. 
+Depois de aplicar o **`OpenAPI plugin`**, edite o arquivo `{{spec_file_name}}.yaml` para permitir a atualização dos stubs de serviço gerados a partir desse arquivo. 
