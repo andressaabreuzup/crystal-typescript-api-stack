@@ -12,8 +12,7 @@ You need to install the following items:
 - [**AWS CLI**](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html);
 - [**CDK**](https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html);
 
-### **Recommended**
-It's recommended to use some developer tools, like for example [**LocalStack**](https://github.com/localstack/localstack). 
+The recommendation is to use some development tools, like [**LocalStack**](https://github.com/localstack/localstack). 
 
 ### **StackSpot CLI Configuration**
 Execute o comando abaixo para atualizar o local com o catálogo que contém o **`OpenAPI plugin`**:
