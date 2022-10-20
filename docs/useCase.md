@@ -26,13 +26,13 @@ Check the commands used in **`OpenAPI plugin`**:
 Command | Description
 --------- | ------
 `npm run build` | Compiles Javascript to Typescript.
-`npm run watch` | Watchs the changes and compiles.
+`npm run watch` | Watch the changes and compiles.
 `npm run test` | Runs the unit tests with Jest.
 `npm run coverage` | Runs tests coverage.
-`npm run local synth` | Sinthetize the CDK project with _cdk local_ generates and updates de lambda sources.
-`npm run local deploy` | Realize the deploy to LocalStack.
-`npm run cdk synth` | Sinthetize the CDK project with _cdk_ generates and updates de lambda sources.
-`npm run cdk deploy` | Realize the deploy to the AWS account configured in the environment.
+`npm run local synth` | Synthesize the CDK project with _cdk local_ generates and updates de lambda sources.
+`npm run local deploy` | Realize the deployment to LocalStack.
+`npm run cdk synth` | Synthesize the CDK project with _cdk_ generates and updates de lambda sources.
+`npm run cdk deploy` | Realize the deployment to the AWS account configured in the environment.
 
 ## **Next Steps**
 After aply the **`OpenAPI plugin`**, edit the file `{{spec_file_name}}.yaml` to allow updates of the service stubs generated based on this file.
