@@ -5,7 +5,7 @@ Eliminate the complexity to generate the infrastructure you need to expose an AP
 From an OpenAPI Contract, you have the necessary infrastructure below:
 
 - API Gateway;
-- Lambdas (each endpoint generate one different Lambda);
+- Lambdas (each endpoint generates one different Lambda);
 - Cloudwatch Logs;
 - X-Ray Tracing;
 - Métricas
