@@ -35,4 +35,4 @@ Command | Description
 `npm run cdk deploy` | Realize the deployment to the AWS account configured in the environment.
 
 ## **Next Steps**
-After aply the **`OpenAPI plugin`**, edit the file `{{spec_file_name}}.yaml` to allow updates of the service stubs generated based on this file.
+After applying the **`OpenAPI plugin`**, edit the  `{{spec_file_name}}.yaml`  file to allow the service stubs updates generated based on this file.
