@@ -1,4 +1,4 @@
-Work with a Serverless stack, contract first and with Lambdas in TypeScript.
+Work with a Serverless Stack, contract first, and with Lambdas in **TypeScript**.
 
 Eliminate the complexity of generating the infrastructure needed to expose an API and just focus on coding the Lambdas that run the business rules
 
