@@ -1,6 +1,6 @@
 # crystal-typescript-api-stack
 
-The **Typescript API** Stack makes it possible to create entirely serverless services, with Lambdas implemented in Typescript, automatic creation of API Gateway and other cloud features
+The **Typescript API** Stack creates an entirely serverless service, with Lambdas implemented in Typescript, automatic creation of API Gateway, and other cloud features.
 
 With the **Typescript API** you can develop and publish Lambdas based on the **OpenAPI** specification and fully integrated with your AWS environment. This allows you to automatically configure an **API Gateway**, which connects to all Lambdas generated from a given OpenAPI specification file.
 
