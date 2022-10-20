@@ -21,7 +21,7 @@ stk import stack https://github.com/stack-spot/crystal-typescript-api-stack
 ```
 
 ## **Useful Commands**
-Check the commands utilized in **`OpenAPI plugin`**:  
+Check the commands used in **`OpenAPI plugin`**:  
 
 Command | Description
 --------- | ------
