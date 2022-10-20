@@ -6,7 +6,7 @@ You can develop and publish Lambdas based on the **OpenAPI** specification and f
 
 The **Typescript API** Stack still uses an initial Template for a new project, it works as a base to create the infrastructure in your AWS environment
 
-After the base Template, it is possible to use the **`OpenAPI Plugin`** plugin to add the ability to generate the base code of Lambdas, following the Hexagonal model. Thus, the code is ready for the development of business rules
+After the base Template, you can use the **`OpenAPI Plugin`** to add the ability to generate a base code of Lambdas, following the Hexagonal model. Thus, the code is ready for the business rules development. 
 
 Stack was developed following all good software architecture practices, such as
 - Clean Architecture;  
