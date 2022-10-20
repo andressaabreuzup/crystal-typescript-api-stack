@@ -1,17 +1,17 @@
-Trabalhe com uma Stack que é serverless, contract first e que tem Lambdas em **TypeScript**.  
+Work with a Serverless Stack, contract first, and with Lambdas in **TypeScript**.
 
-Elimine a complexidade de gerar a infraestrutura necessária para expor uma API e concentre-se apenas na codificação das Lambdas que executam as regras de negócio.
+Eliminate the complexity to generate the infrastructure you need to expose an API. Now you can focus on coding Lambdas that execute the business rules.
 
-A partir de um Contrato OpenAPI, você tem a geração da infraestrutura necessária abaixo:  
+From an OpenAPI Contract, you have the necessary infrastructure below:
 
 - API Gateway;
-- Lambdas (no padrão lift lambda, ou seja, uma lambda para cada endpoint);
-- Cloudwatch Logs;  
-- X-Ray Tracing;  
+- Lambdas (each endpoint generates one different Lambda);
+- Cloudwatch Logs;
+- X-Ray Tracing;
 - Métricas
 
-E ainda conta com a geração de código **`boilerplate`**, como:  
-- Componentes Core;  
+It also generates Lambda source codes with the structure below:
+- Core Components;  
 - Controllers;  
 - Use Cases;  
 - Error Handling;  

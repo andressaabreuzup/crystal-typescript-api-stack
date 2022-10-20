@@ -1,41 +1,38 @@
-## **Caso de Uso**
-Este Caso de Uso é ideal para a construção de endpoints para aplicação web.
+## **Use Case**
+This Use case is ideal to build endpoints for web applications.
 
-### **Visão Geral**  
-O Plugin [**typescript-openapi-plugin**](https://github.com/stack-spot/app-typescript-openapi-plugin) adiciona na Stack a capacidade de provisionar serviços Lambda a partir de um arquivo de especificação **OpenAPI**. 
+### **Overview**
+The [**typescript-openapi-plugin**](https://github.com/stack-spot/app-typescript-openapi-plugin) adds to the Stack the capacity to provide Lambda services from an OpenAPI specification file. 
 
-### **Pré-requisitos**
-Para usar o Plugin é preciso ter instalado os itens abaixo: 
-
+### **Requirements**
+You need to install the following items:
 - [**StakSpot CLI**](https://docs.stackspot.com/v3.0.0/os-cli/installation/);
 - [**NodeJS**](https://nodejs.org/en/);
 - [**Git**](https://git-scm.com/);
 - [**AWS CLI**](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html);
 - [**CDK**](https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html);
 
-### **Recomendado**
-É recomendada a utilização de algumas ferramentas para desenvolvimento, como por exemplo, o [**LocalStack**](https://github.com/localstack/localstack). 
+The recommendation is to use some development tools, like [**LocalStack**](https://github.com/localstack/localstack). 
 
-### **Configuração da Stack CLI**
+### **StackSpot CLI Configuration**
 Execute o comando abaixo para atualizar o local com o catálogo que contém o **`OpenAPI plugin`**:
-
 ```bash
-stk add stack https://github.com/stack-spot/crystal-typescript-api-stack
+stk import stack https://github.com/stack-spot/crystal-typescript-api-stack
 ```
 
-## **Comandos Úteis**
-Confira abaixo os comandos utilizados no **`OpenAPI plugin`**:  
+## **Useful Commands**
+Check the commands used in **`OpenAPI plugin`**:  
 
-Comando   | Descrição
+Command | Description
 --------- | ------
-`npm run build` | Compila Typescript para Jsii.
-`npm run watch` | Observa as mudanças e as compila. 
-`npm run test` | Executa os testes unitários com Jest. 
-`npm run coverage` | Executa a cobertura de testes. 
-`npm run local synth` | Sintetiza o projeto CDK com _cdk local_ e gera/atualiza o projeto.
-`npm run local deploy` | Faz o deploy para o LocalStack.  
-`npm run cdk synth` | Sintetiza o projeto CDK com _cdk_ e gera/atualiza o projeto.
-`npm run cdk deploy` | Faz o deploy para a conta AWS configurada no projeto. 
+`npm run build` | Compiles Javascript to Typescript.
+`npm run watch` | Watch the changes and compiles.
+`npm run test` | Runs the unit tests with Jest.
+`npm run coverage` | Runs tests coverage.
+`npm run local synth` | Synthesize the CDK project with _cdk local_ generates and updates de lambda sources.
+`npm run local deploy` | Realize the deployment to LocalStack.
+`npm run cdk synth` | Synthesize the CDK project with _cdk_ generates and updates de lambda sources.
+`npm run cdk deploy` | Realize the deployment to the AWS account configured in the environment.
 
-## **Próximos Passos**  
-Depois de aplicar o **`OpenAPI plugin`**, edite o arquivo `{{spec_file_name}}.yaml` para permitir a atualização dos stubs de serviço gerados a partir desse arquivo. 
+## **Next Steps**
+After applying the **`OpenAPI plugin`**, edit the  `{{spec_file_name}}.yaml`  file to allow the service stubs updates generated based on this file.
