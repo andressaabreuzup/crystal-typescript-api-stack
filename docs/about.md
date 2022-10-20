@@ -2,7 +2,7 @@ Work with a Serverless Stack, contract first, and with Lambdas in **TypeScript**
 
 Eliminate the complexity to generate the infrastructure you need to expose an API. Now you can focus on coding Lambdas that execute the business rules.
 
-From an OpenAPI Contract, you have the generation of the necessary infrastructure below:
+From an OpenAPI Contract, you have the necessary infrastructure below:
 
 - API Gateway;
 - Lambdas (each endpoint generate one different Lambda);
