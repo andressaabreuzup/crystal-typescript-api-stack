@@ -5,7 +5,7 @@ This Use case is ideal to construct endpoint to web applications.
 The plugin [**typescript-openapi-plugin**](https://github.com/stack-spot/app-typescript-openapi-plugin) adds in the Stack the capacity to provide Lambda services from a OpenAPI specification file. 
 
 ### **Requirements**
-To use the plugin it's need to install the following items:
+You need to install the following items:
 - [**StakSpot CLI**](https://docs.stackspot.com/v3.0.0/os-cli/installation/);
 - [**NodeJS**](https://nodejs.org/en/);
 - [**Git**](https://git-scm.com/);
