@@ -1,5 +1,5 @@
 ## **Use Case**
-This Use case is ideal to construct endpoint to web applications.
+This Use case is ideal to build endpoints for web applications.
 
 ### **General Vision**
 The plugin [**typescript-openapi-plugin**](https://github.com/stack-spot/app-typescript-openapi-plugin) adds in the Stack the capacity to provide Lambda services from a OpenAPI specification file. 
