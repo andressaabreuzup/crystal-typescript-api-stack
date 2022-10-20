@@ -10,7 +10,7 @@ From an OpenAPI Contract, you have the necessary infrastructure below:
 - X-Ray Tracing;
 - Métricas
 
-Also generates lambda source codes with the structure below:
+It also generates Lambda source codes with the structure below:
 - Core Components;  
 - Controllers;  
 - Use Cases;  
