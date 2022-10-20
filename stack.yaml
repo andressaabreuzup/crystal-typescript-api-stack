@@ -2,7 +2,7 @@ name: crystal-typescript-api-stack
 
 displayName: Typescript API Stack
 
-description: A stack de typescript API a capacidade de criação de serviços inteiramente serverless, com lambdas implementadas em Typescript, criação automática de API Gateway, e outros recursos de nuvem.
+description: This stack adds a capacity to create entirely serverless services, with lambdas implemented in Typescript, automatic creation of API Gateway, and other cloud features.
 
 picture: "stack.png"
 
