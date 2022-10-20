@@ -8,7 +8,7 @@ The **Typescript API** Stack still uses an initial Template for a new project, i
 
 After the base Template, you can use the **`OpenAPI Plugin`** to add the ability to generate a base code of Lambdas, following the Hexagonal model. Thus, the code is ready for the business rules development. 
 
-Stack was developed following all good software architecture practices, such as
+The Stack was developed following the best software architecture practices, such as:
 - Clean Architecture;  
 - Constant updating of plugins and templates focusing on keeping up with the technological modernization of the market, in addition to ensuring compatibility with previous versions;
 - Easily testable code;
