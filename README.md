@@ -4,7 +4,7 @@ The **Typescript API** Stack creates an entirely serverless service, with Lambda
 
 You can develop and publish Lambdas based on the **OpenAPI** specification and fully integrated with your AWS environment with **Typescript API**. This allows you to automatically configure an **API Gateway**, which connects to all Lambdas generated from a given OpenAPI specification file.
 
-The **Typescript API** Stack still uses an initial Template for a new project as the basis for creating the infrastructure in your AWS environment
+The **Typescript API** Stack still uses an initial Template for a new project, it works as a base to create the infrastructure in your AWS environment
 
 After the base Template, it is possible to use the **`OpenAPI Plugin`** plugin to add the ability to generate the base code of Lambdas, following the Hexagonal model. Thus, the code is ready for the development of business rules
 
