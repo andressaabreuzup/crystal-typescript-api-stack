@@ -19,7 +19,7 @@ technologies:
 
 about: docs/about.md
 
-useCase:
+useCases:
   - title: Basic Template
     content: docs/useCase.md
     stackfile: stackfiles/basic.yaml
