@@ -36,3 +36,5 @@ Command | Description
 
 ## **Next Steps**
 After applying the **`OpenAPI plugin`**, edit the  `{{spec_file_name}}.yaml`  file to allow the service stubs updates generated based on this file.
+
+!["Caso de Uso"](image2.jpeg)

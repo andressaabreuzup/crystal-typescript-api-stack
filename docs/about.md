@@ -16,3 +16,5 @@ It also generates Lambda source codes with the structure below:
 - Use Cases;  
 - Error Handling;  
 - API Schema Types
+
+!["Caso de Uso"](../images/image.jpeg)
